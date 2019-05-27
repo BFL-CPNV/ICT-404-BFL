@@ -1,4 +1,11 @@
-﻿using System;
+﻿//============================================
+//Auteur    : Fardel Bastien
+//Date      : 27.05.2019
+//Version   : 1.0
+//File      : Déduction
+//============================================
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
